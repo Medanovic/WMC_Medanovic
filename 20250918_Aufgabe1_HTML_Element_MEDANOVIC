@@ -4,6 +4,6 @@ Mit <details> kann man Elemente ein- und ausklappen.
 
 z.B.: 
 <details> 
-  <summary>Was bringt <details>? (Für die Antwort drücken)</summary> 
+  <summary>Was bringt das details-Element (Für die Antwort drücken)</summary> 
   <p>Mit dem details-Element kann man Inhalte innerhalb des Elements sozusagen verstecken und wenn man auf die Nachricht drückt erscheint der Inhalt.</p> 
 </details>
